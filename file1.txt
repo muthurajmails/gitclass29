@@ -1,3 +1,5 @@
 line 1 from repo
 
 line 2 from local
+
+line 3 from master
