@@ -11,3 +11,5 @@ line 4 from 44 local
 line 4 from master
 
 line 5 from master
+
+line 5 from local
